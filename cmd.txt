@@ -1,0 +1,12 @@
+dir
+cd c:\temp
+cd nvidia
+cd ..
+cd nvidia
+cd ..\..
+cd c:\temp\nvidia
+cd\
+d:
+c:
+cls
+pause
